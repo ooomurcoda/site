@@ -11,21 +11,21 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             type: 'chat',
-            iconUrl: 'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slack.svg',
+            iconUrl: 'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg',
             title: 'Чат',
             url: 'https://t.me/+H1bh_TL7xzxkODIy',
             description: 'Присоединяйтесь к нашему чату'
         },
         {
             type: 'bot',
-            iconUrl: 'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/botframework.svg',
+            iconUrl: 'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg',
             title: 'Бот',
             url: 'https://murcodabot.t.me',
             description: 'Наш бот'
         },
         {
             type: 'manager',
-            iconUrl: 'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/trello.svg',
+            iconUrl: 'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg',
             title: 'Менеджер',
             url: 'https://murcodaagent.t.me',
             description: 'Свяжитесь с менеджером'
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             type: 'donate',
-            iconUrl: 'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/donationalerts.svg',
+            iconUrl: 'https://avatars.mds.yandex.net/i?id=0d526b4748bd7055ac1e44c5d74d46b6_l-10102345-images-thumbs&n=13',
             title: 'Донат',
             url: 'https://www.donationalerts.com/r/murcoda',
             description: 'Поддержите нас финансово'
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             type: 'channel',
-            iconUrl: 'https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg',
+            iconUrl: 'https://fs.cap.ru/file/37b5a9db1c3143a2a1c07daede224441',
             title: 'Канал',
             url: 'https://max.ru/join/XOrT6VxufmDlvM6OVyEjN37T4i1MPediJiPD3HlZQVo',
             description: 'Наш канал'
